@@ -14,7 +14,7 @@ environments {
     development {
         dataSource {
             dbCreate = "update" // one of 'create', 'create-drop','update'
-            url = "jdbc:hsqldb:file:devDB;shutdown=true"
+            url = "jdbc:hsqldb:file:databases/devDB"
         }
     }
     test {
@@ -26,7 +26,7 @@ environments {
     production {
         dataSource {
             dbCreate = "update"
-            url = "jdbc:hsqldb:file:prodDb;shutdown=true"
+            url = "jdbc:hsqldb:file:databases/prodDb;shutdown=true"
         }
     }
 }
