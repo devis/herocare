@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="${resource(dir:'css',file:'base.css')}?v=2">
   <link rel="stylesheet" href="${resource(dir:'css',file:'main.css')}?v=2" />
-  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+  <script src="${resource(dir:'js', file: 'modernizr-2.0.6.js')}"></script>
   <g:layoutHead />
 </head>
 <body>
