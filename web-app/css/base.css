@@ -186,9 +186,11 @@ th {
 }
 thead th { 
 	background: #c3d9ff; 
+	vertical-align: bottom;
 }
 th, td, caption { 
 	padding: 4px 10px 4px 5px; 
+	text-align: left;
 }
 tbody tr:nth-child(even) td, 
 tbody tr.even td  { 
@@ -200,6 +202,7 @@ tfoot {
 caption { 
 	background: #eee; 
 }
+th.center { text-align: center; }
 
 
 /* Form fields
