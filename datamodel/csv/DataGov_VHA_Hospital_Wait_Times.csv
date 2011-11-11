@@ -1,0 +1,150 @@
+VISN,VISN Name,Facility Name,City,State,Primary care - % seen in 30 days,Specialty care - % seen in 30 days
+1,VA New England Health Care System,VA Connecticut HCS,West Haven,CT,99,96
+1,VA New England Health Care System,Edith Nourse Rogers Memorial Veterans Hospital,Bedford,MA,97,99
+1,VA New England Health Care System,"VA Boston HCS
+W Roxbury Brockton Jamaica Plns",West Roxbury,MA,96,96
+1,VA New England Health Care System,VAMC,Northampton,MA,98,97
+1,VA New England Health Care System,VAMC/RO,Togus,ME,98,96
+1,VA New England Health Care System,VAMC,Manchester,NH,99,98
+1,VA New England Health Care System,VAMC,Providence,RI,100,97
+1,VA New England Health Care System,VAM/ROC,White River Junction,VT,99,95
+2,VA Healthcare Network Upstate New York,Samuel S. Stratton VAMC ,Albany,NY,100,97
+2,VA Healthcare Network Upstate New York,VA Western New York HCS Buffalo Batavia,Buffalo,NY,99,97
+2,VA Healthcare Network Upstate New York,VAMC,Bath,NY,99,100
+2,VA Healthcare Network Upstate New York,VAMC,Canandaigua ,NY,99,98
+2,VA Healthcare Network Upstate New York,VAMC,Syracuse,NY,97,96
+3,VA NY/NJ Veterans Healthcare Network,VA New Jersey HCS East Orange Campus,East Orange,NJ,100,97
+3,VA NY/NJ Veterans Healthcare Network,VAMC,Bronx ,NY,98,99
+3,VA NY/NJ Veterans Healthcare Network,"VA NY Harbor HCS
+NY Harbor Brooklyn",New York Harbor,NY,99,99
+3,VA NY/NJ Veterans Healthcare Network,VA Hudson Valley HCS Montrose Castle Pt,Montrose,NY,100,99
+3,VA NY/NJ Veterans Healthcare Network,VAMC,Northport,NY,97,97
+4,VA Stars & Stripes Healthcare Network,VAM&RO,Wilmington,DE,99,97
+4,VA Stars & Stripes Healthcare Network,James E. Van Zandt VA Medical Center ,Altoona,PA,99,98
+4,VA Stars & Stripes Healthcare Network,VAMC,Butler,PA,99,100
+4,VA Stars & Stripes Healthcare Network,VAMC,Coatesville,PA,100,98
+4,VA Stars & Stripes Healthcare Network,VAMC,Erie,PA,98,99
+4,VA Stars & Stripes Healthcare Network,VAMC,Lebanon,PA,100,99
+4,VA Stars & Stripes Healthcare Network,VAMC,Philadelphia,PA,99,97
+4,VA Stars & Stripes Healthcare Network,"VA Pittsburgh HCS
+Heinz Univ Dr Highld Dr",Pittsburgh,PA,98,97
+4,VA Stars & Stripes Healthcare Network,VAMC,Wilkes-Barre,PA,100,100
+4,VA Stars & Stripes Healthcare Network,Louis A. Johnson VAMC,Clarksburg,WV,99,97
+5,VA Capitol Health Care Network,VAMC,Washington,DC,99,98
+5,VA Capitol Health Care Network,"VA Maryland HCS
+Baltimore Perry Pt",Baltimore,MD,98,98
+5,VA Capitol Health Care Network,VAMC,Martinsburg,WV,99,96
+6,VA Mid-Atlantic Health Care Network,VAMC,Asheville,NC,98,96
+6,VA Mid-Atlantic Health Care Network,VAMC,Durham,NC,92,94
+6,VA Mid-Atlantic Health Care Network,VAMC,Fayetteville,NC,100,93
+6,VA Mid-Atlantic Health Care Network,W.G. (Bill) Hefner VA Medical Center,Salisbury,NC,98,95
+6,VA Mid-Atlantic Health Care Network,VAMC,Hampton,VA,99,97
+6,VA Mid-Atlantic Health Care Network,Hunter Holmes McGuire VAMC,Richmond,VA,98,96
+6,VA Mid-Atlantic Health Care Network,VAMC,Salem,VA,98,97
+6,VA Mid-Atlantic Health Care Network,VAMC,Beckley,WV,99,99
+7,VA Southeast Network,VAMC,Birmingham,AL,99,96
+7,VA Southeast Network,Central Alabama Veterans HCS Tuskeegee Montgomery,Montgomery,AL,99,98
+7,VA Southeast Network,VAMC,Tuscaloosa,AL,100,100
+7,VA Southeast Network,VAMC,Atlanta,GA,99,98
+7,VA Southeast Network,VAMC,Augusta,GA,100,95
+7,VA Southeast Network,Carl Vinson VA Medical Center,Dublin,GA,98,96
+7,VA Southeast Network,Ralph H. Johnson VAMC,Charleston,SC,100,98
+7,VA Southeast Network,Wm. Jennings Bryan Dorn VAMC,Columbia,SC,99,94
+8,VA Sunshine Healthcare Network,VAMC,Bay Pines,FL,100,98
+8,VA Sunshine Healthcare Network,N FLA/S GA Veterans HS Gainesville Lake Cty,Gainesville,FL,98,94
+8,VA Sunshine Healthcare Network,VAMC,Miami,FL,100,98
+8,VA Sunshine Healthcare Network,East Central Florida HCS,Orlando,FL,99,98
+8,VA Sunshine Healthcare Network,James A. Haley VA Medical Center,Tampa,FL,99,97
+8,VA Sunshine Healthcare Network,VAMC,West Palm Beach,FL,100,99
+8,VA Sunshine Healthcare Network,VAMC,San Juan,PR,95,98
+9,VA Mid South Healthcare Network,VAMC,Lexington,KY,99,97
+9,VA Mid South Healthcare Network,VAMC,Louisville,KY,100,99
+9,VA Mid South Healthcare Network,VAMC,Memphis,TN,99,99
+9,VA Mid South Healthcare Network,VAMC,Mountain Home,TN,100,98
+9,VA Mid South Healthcare Network,"Tennessee Valley HCS
+Nashville Murfreesboro ",Nashville,TN,96,96
+9,VA Mid South Healthcare Network,VAMC,Huntington,WV,100,99
+10,VA Health Care System of Ohio,VAMC,Chillicothe,OH,99,97
+10,VA Health Care System of Ohio,VAMC,Cincinnati,OH,100,99
+10,VA Health Care System of Ohio,"Louis Stokes VA Medical Center
+Cleveland Brecksville",Cleveland,OH,100,98
+10,VA Health Care System of Ohio,Chalmers Wylie Outpatient Clinic       ,Columbus,OH,96,93
+10,VA Health Care System of Ohio,VAMC,Dayton,OH,98,97
+11,Veterans In Partnership,VA Illiana HCS,Danville,IL,100,97
+11,Veterans In Partnership,VA Northern Indiana HCS Marion Ft Wayne,Marion,IN,99,99
+11,Veterans In Partnership,Richard L. Roudebush VA Medical Center,Indianapolis,IN,89,91
+11,Veterans In Partnership,Ann Arbor VA Ann Arbor HCS,Ann Arbor,MI,91,95
+11,Veterans In Partnership,VAMC,Battle Creek,MI,95,95
+11,Veterans In Partnership,John D. Dingell VA Medical Center,Detroit,MI,95,96
+11,Veterans In Partnership,Aleda E. Lutz VA Medical Center,Saginaw,MI,99,99
+12,The Great Lakes Health Care System,VA Chicago HCS; (Jessie Brown),"Chicago, West Side ",IL,99,99
+12,The Great Lakes Health Care System,Edward Hines Jr. VA Hospital,Hines,IL,98,99
+12,The Great Lakes Health Care System,VAMC,North Chicago,IL,100,100
+12,The Great Lakes Health Care System,VAMC,Iron Mountain,MI,89,94
+12,The Great Lakes Health Care System,William S. Middleton Memorial Veterans Hospital,Madison,WI,100,97
+12,The Great Lakes Health Care System,Clement J. Zablocki VAMC,Milwaukee,WI,99,96
+12,The Great Lakes Health Care System,VAMC,Tomah,WI,99,99
+15,VA Heartland Network,VA Eastern Kansas HCS Topeka Leavenworth,Topeka,KS,99,96
+15,VA Heartland Network,Robert J. Dole Department of Veterans Affairs Medical and Regional Office Center,Wichita,KS,100,99
+15,VA Heartland Network,Harry S. Truman Memorial,Columbia,MO,99,94
+15,VA Heartland Network,VAMC,Kansas City,MO,100,97
+15,VA Heartland Network,VAMC,Marion,IL,98,97
+15,VA Heartland Network,John J. Pershing VA Medical Center,Poplar Bluff,MO,100,98
+15,VA Heartland Network,St Louis VAMC St Louis Jefferson Barracks,St. Louis,MO,98,97
+16,South Central VA Health Care Network,VAMC,Fayetteville,AR,100,100
+16,South Central VA Health Care Network,"Central Arkansas Veterans HCS
+Little Rock Little Rock N",Little Rock,AR,99,97
+16,South Central VA Health Care Network,VAMC,Alexandria,LA,100,96
+16,South Central VA Health Care Network,VAMC,New Orleans,LA,96,94
+16,South Central VA Health Care Network,Overton Brooks VA Medical Center,Shreveport,LA,95,96
+16,South Central VA Health Care Network,VA Gulf Coast Veterans HCS,Biloxi,MS,100,98
+16,South Central VA Health Care Network,G.V. (Sonny) Montgomery VA Medical Center,Jackson,MS,100,98
+16,South Central VA Health Care Network,VAMC,Muskogee,OK,90,92
+16,South Central VA Health Care Network,VAMC,Oklahoma City,OK,99,96
+16,South Central VA Health Care Network,VAMC,Houston,TX,98,97
+17,VA Heart of Texas Health Care Network,VA North Texas HCS,Dallas,TX,99,98
+17,VA Heart of Texas Health Care Network,South Texas Veterans HCS  SanAntonio Kerrville,San Antonio,TX,100,97
+17,VA Heart of Texas Health Care Network,"Central Texas Veterans HCS
+Temple Waco Marlin",Temple,TX,99,98
+18,VA Southwest Health Care Network,Carl T. Hayden VA Medical Center,Phoenix,AZ,95,96
+18,VA Southwest Health Care Network,Northern Arizona VA HCS,Prescott,AZ,100,99
+18,VA Southwest Health Care Network,Southern Arizona VA HCS,Tucson,AZ,99,99
+18,VA Southwest Health Care Network,New Mexico HCS,Albuquerque,NM,99,97
+18,VA Southwest Health Care Network,Amarillo VA HCS,Amarillo,TX,99,98
+18,VA Southwest Health Care Network,West Texas VA HCS,Big Spring,TX,99,99
+18,VA Southwest Health Care Network,El Paso VA HCS,El Paso,TX,100,96
+19,Rocky Mountain Network,Eastern Colorado HCS Denver Pueblo,Denver,CO,99,98
+19,Rocky Mountain Network,VAMC,Grand Junction,CO,100,100
+19,Rocky Mountain Network,VA Montana HCS,Fort Harrison,MT,99,99
+19,Rocky Mountain Network,VA Salt Lake City HCS,Salt Lake City,UT,99,98
+19,Rocky Mountain Network,VAM/ROC,Cheyenne,WY,99,99
+19,Rocky Mountain Network,VAMC,Sheridan,WY,99,99
+20,Northwest Network,Alaska VA HCS and Regional Office,Anchorage,AK,99,91
+20,Northwest Network,VAMC,Boise,ID,96,93
+20,Northwest Network,VAMC,Portland,OR,99,96
+20,Northwest Network,VA Roseburg HCS,Roseburg,OR,85,93
+20,Northwest Network,Southern Oregon Rehab Ctr & Clinics,White City,OR,97,92
+20,Northwest Network,VA Puget Sound HCS‡  Seattle American Lake,Seattle,WA,97,93
+20,Northwest Network,VAMC,Spokane ,WA,94,93
+20,Northwest Network,Jonathan M. Wainwright Memorial VA Medical Center,Walla Walla,WA,71,89
+21,Sierra Pacific Network,VA Central California HCS,Fresno,CA,99,97
+21,Sierra Pacific Network,VA Northern California HCS Martinez Sacramento,"Martinez, East Bay",CA,97,98
+21,Sierra Pacific Network,"VA Palo Alto HCS
+PaloAlto MenloPk Livermore",Palo Alto,CA,91,98
+21,Sierra Pacific Network,VAMC,San Francisco,CA,98,97
+21,Sierra Pacific Network,VA Pacific Islands HCSSpark M. Matsunaga VA Medical & Regional Office Center,Honolulu,HI,98,94
+21,Sierra Pacific Network,VA Sierra Nevada HCS,Reno,NV,99,96
+22,Desert Pacific Healthcare Network,VA Loma Linda HCS,Loma Linda,CA,98,97
+22,Desert Pacific Healthcare Network,VA Long Beach HCS,Long Beach,CA,96,97
+22,Desert Pacific Healthcare Network,VA Greater Los Angeles HCS (GLA),Los Angeles,CA,96,96
+22,Desert Pacific Healthcare Network,VA San Diego HCS,San Diego,CA,100,97
+22,Desert Pacific Healthcare Network,VA Southern Nevada HCS,Las Vegas,NV,100,98
+23,VA Midwest Health Care Network,VA Nebraska Western Iowa HCS  Omaha Grand Is Lincoln,Omaha,NE,97,95
+23,VA Midwest Health Care Network,VA Central Iowa HCS   DesMoines Knoxville,Des Moines,IA,99,97
+23,VA Midwest Health Care Network,VAMC,Iowa City,IA,99,89
+23,VA Midwest Health Care Network,VAMC,Minneapolis,MN,99,96
+23,VA Midwest Health Care Network,VAMC,St. Cloud,MN,100,98
+23,VA Midwest Health Care Network,VAM/RO,Fargo,ND,99,93
+23,VA Midwest Health Care Network,"VA Black Hills HCS
+Ft Meade Hot Springs",Fort Meade ,SD,99,96
+23,VA Midwest Health Care Network,VAM/ROC,Sioux Falls,SD,99,98
