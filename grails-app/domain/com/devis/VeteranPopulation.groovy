@@ -1,12 +1,12 @@
 package com.devis
 
 class VeteranPopulation {
-	
+
 	static belongsTo = [state: State]
 
-	Long total
-	Long male
-	Long female
+	Float total
+	Float male
+	Float female
 	
     static constraints = {
     }
