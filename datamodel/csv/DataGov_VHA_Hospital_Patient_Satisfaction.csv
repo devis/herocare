@@ -1,8 +1,7 @@
 VISN,VISN Name,Facility Name,City,State,White (inpatient),African American (inpatient),Other (inpatient),White (outpatient),African American (outpatient),Other (outpatient)
 1,VA New England Health Care System,VA Connecticut HCS,West Haven,CT,78,59,*,84,48,64
 1,VA New England Health Care System,Edith Nourse Rogers Memorial Veterans Hospital,Bedford,MA,63,*,*,87,*,85
-1,VA New England Health Care System,"VA Boston HCS
-W Roxbury Brockton Jamaica Plns",West Roxbury,MA,83,73,81,86,76,82
+1,VA New England Health Care System,"VA Boston HCS W Roxbury Brockton Jamaica Plns",West Roxbury,MA,83,73,81,86,76,82
 1,VA New England Health Care System,VAMC,Northampton,MA,83,*,*,83,*,84
 1,VA New England Health Care System,VAMC/RO,Togus,ME,80,*,*,84,*,69
 1,VA New England Health Care System,VAMC,Manchester,NH,*,*,*,87,*,74
@@ -15,8 +14,7 @@ W Roxbury Brockton Jamaica Plns",West Roxbury,MA,83,73,81,86,76,82
 2,VA Healthcare Network Upstate New York,VAMC,Syracuse,NY,84,*,*,86,71,90
 3,VA NY/NJ Veterans Healthcare Network,VA New Jersey HCS East Orange Campus,East Orange,NJ,79,72,67,78,62,60
 3,VA NY/NJ Veterans Healthcare Network,VAMC,Bronx ,NY,73,64,70,70,72,67
-3,VA NY/NJ Veterans Healthcare Network,"VA NY Harbor HCS
-NY Harbor Brooklyn",New York Harbor,NY,78,76,76,81,72,74
+3,VA NY/NJ Veterans Healthcare Network,"VA NY Harbor HCS NY Harbor Brooklyn",New York Harbor,NY,78,76,76,81,72,74
 3,VA NY/NJ Veterans Healthcare Network,VA Hudson Valley HCS Montrose Castle Pt,Montrose,NY,88,*,*,84,87,77
 3,VA NY/NJ Veterans Healthcare Network,VAMC,Northport,NY,84,73,*,85,81,63
 4,VA Stars & Stripes Healthcare Network,VAM&RO,Wilmington,DE,85,65,*,83,78,58
@@ -26,13 +24,11 @@ NY Harbor Brooklyn",New York Harbor,NY,78,76,76,81,72,74
 4,VA Stars & Stripes Healthcare Network,VAMC,Erie,PA,87,*,*,87,*,83
 4,VA Stars & Stripes Healthcare Network,VAMC,Lebanon,PA,91,*,*,88,71,99
 4,VA Stars & Stripes Healthcare Network,VAMC,Philadelphia,PA,76,66,*,86,63,66
-4,VA Stars & Stripes Healthcare Network,"VA Pittsburgh HCS
-Heinz Univ Dr Highld Dr",Pittsburgh,PA,81,66,*,80,60,82
+4,VA Stars & Stripes Healthcare Network,"VA Pittsburgh HCS Heinz Univ Dr Highld Dr",Pittsburgh,PA,81,66,*,80,60,82
 4,VA Stars & Stripes Healthcare Network,VAMC,Wilkes-Barre,PA,78,*,*,80,*,81
 4,VA Stars & Stripes Healthcare Network,Louis A. Johnson VAMC,Clarksburg,WV,82,*,*,84,*,68
 5,VA Capitol Health Care Network,VAMC,Washington,DC,82,70,70,78,71,67
-5,VA Capitol Health Care Network,"VA Maryland HCS
-Baltimore Perry Pt",Baltimore,MD,82,77,69,81,65,58
+5,VA Capitol Health Care Network,"VA Maryland HCS Baltimore Perry Pt",Baltimore,MD,82,77,69,81,65,58
 5,VA Capitol Health Care Network,VAMC,Martinsburg,WV,83,65,*,83,88,82
 6,VA Mid-Atlantic Health Care Network,VAMC,Asheville,NC,81,81,*,83,*,*
 6,VA Mid-Atlantic Health Care Network,VAMC,Durham,NC,82,72,68,73,61,51
@@ -61,13 +57,11 @@ Baltimore Perry Pt",Baltimore,MD,82,77,69,81,65,58
 9,VA Mid South Healthcare Network,VAMC,Louisville,KY,83,70,60,79,70,75
 9,VA Mid South Healthcare Network,VAMC,Memphis,TN,71,68,73,74,58,54
 9,VA Mid South Healthcare Network,VAMC,Mountain Home,TN,79,*,*,77,*,80
-9,VA Mid South Healthcare Network,"Tennessee Valley HCS
-Nashville Murfreesboro ",Nashville,TN,77,68,66,77,68,76
+9,VA Mid South Healthcare Network,"Tennessee Valley HCS Nashville Murfreesboro ",Nashville,TN,77,68,66,77,68,76
 9,VA Mid South Healthcare Network,VAMC,Huntington,WV,77,*,*,80,*,71
 10,VA Health Care System of Ohio,VAMC,Chillicothe,OH,68,*,*,77,*,85
 10,VA Health Care System of Ohio,VAMC,Cincinnati,OH,78,77,88,79,82,63
-10,VA Health Care System of Ohio,"Louis Stokes VA Medical Center
-Cleveland Brecksville",Cleveland,OH,76,67,80,85,64,80
+10,VA Health Care System of Ohio,"Louis Stokes VA Medical Center Cleveland Brecksville",Cleveland,OH,76,67,80,85,64,80
 10,VA Health Care System of Ohio,Chalmers Wylie Outpatient Clinic       ,Columbus,OH,*,*,*,77,77,90
 10,VA Health Care System of Ohio,VAMC,Dayton,OH,75,73,*,76,64,65
 11,Veterans In Partnership,VA Illiana HCS,Danville,IL,72,*,*,79,77,71
@@ -92,8 +86,7 @@ Cleveland Brecksville",Cleveland,OH,76,67,80,85,64,80
 15,VA Heartland Network,John J. Pershing VA Medical Center,Poplar Bluff,MO,73,*,*,67,*,68
 15,VA Heartland Network,St Louis VAMC St Louis Jefferson Barracks,St. Louis,MO,66,51,*,73,74,71
 16,South Central VA Health Care Network,VAMC,Fayetteville,AR,80,*,86,85,*,77
-16,South Central VA Health Care Network,"Central Arkansas Veterans HCS
-Little Rock Little Rock N",Little Rock,AR,73,62,82,78,62,71
+16,South Central VA Health Care Network,"Central Arkansas Veterans HCS Little Rock Little Rock N",Little Rock,AR,73,62,82,78,62,71
 16,South Central VA Health Care Network,VAMC,Alexandria,LA,77,64,*,74,52,59
 16,South Central VA Health Care Network,VAMC,New Orleans,LA,*,*,*,72,66,65
 16,South Central VA Health Care Network,Overton Brooks VA Medical Center,Shreveport,LA,80,66,*,78,74,67
@@ -104,8 +97,7 @@ Little Rock Little Rock N",Little Rock,AR,73,62,82,78,62,71
 16,South Central VA Health Care Network,VAMC,Houston,TX,76,72,66,70,66,66
 17,VA Heart of Texas Health Care Network,VA North Texas HCS,Dallas,TX,67,58,74,68,55,50
 17,VA Heart of Texas Health Care Network,South Texas Veterans HCS  SanAntonio Kerrville,San Antonio,TX,76,66,70,74,71,64
-17,VA Heart of Texas Health Care Network,"Central Texas Veterans HCS
-Temple Waco Marlin",Temple,TX,77,67,68,76,63,73
+17,VA Heart of Texas Health Care Network,"Central Texas Veterans HCS Temple Waco Marlin",Temple,TX,77,67,68,76,63,73
 18,VA Southwest Health Care Network,Carl T. Hayden VA Medical Center,Phoenix,AZ,77,*,77,73,53,59
 18,VA Southwest Health Care Network,Northern Arizona VA HCS,Prescott,AZ,85,*,*,84,*,78
 18,VA Southwest Health Care Network,Southern Arizona VA HCS,Tucson,AZ,84,*,79,80,49,76
@@ -129,8 +121,7 @@ Temple Waco Marlin",Temple,TX,77,67,68,76,63,73
 20,Northwest Network,Jonathan M. Wainwright Memorial VA Medical Center,Walla Walla,WA,*,*,*,78,*,80
 21,Sierra Pacific Network,VA Central California HCS,Fresno,CA,81,*,94,79,67,75
 21,Sierra Pacific Network,VA Northern California HCS Martinez Sacramento,"Martinez, East Bay",CA,80,*,92,84,78,72
-21,Sierra Pacific Network,"VA Palo Alto HCS
-PaloAlto MenloPk Livermore",Palo Alto,CA,84,73,83,87,75,84
+21,Sierra Pacific Network,"VA Palo Alto HCS PaloAlto MenloPk Livermore",Palo Alto,CA,84,73,83,87,75,84
 21,Sierra Pacific Network,VAMC,San Francisco,CA,82,79,79,85,79,72
 21,Sierra Pacific Network,VA Pacific Islands HCSSpark M. Matsunaga VA Medical & Regional Office Center,Honolulu,HI,*,*,*,89,*,75
 21,Sierra Pacific Network,VA Sierra Nevada HCS,Reno,NV,81,*,*,83,*,67
@@ -145,6 +136,5 @@ PaloAlto MenloPk Livermore",Palo Alto,CA,84,73,83,87,75,84
 23,VA Midwest Health Care Network,VAMC,Minneapolis,MN,86,*,*,82,*,83
 23,VA Midwest Health Care Network,VAMC,St. Cloud,MN,60,*,*,83,*,*
 23,VA Midwest Health Care Network,VAM/RO,Fargo,ND,89,*,*,87,*,70
-23,VA Midwest Health Care Network,"VA Black Hills HCS
-Ft Meade Hot Springs",Fort Meade ,SD,91,*,*,87,*,75
+23,VA Midwest Health Care Network,"VA Black Hills HCS Ft Meade Hot Springs",Fort Meade ,SD,91,*,*,87,*,75
 23,VA Midwest Health Care Network,VAM/ROC,Sioux Falls,SD,78,*,*,84,*,97
