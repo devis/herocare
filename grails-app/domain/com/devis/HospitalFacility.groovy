@@ -9,7 +9,7 @@ class HospitalFacility {
 	WaitTime waitTime
 	
     static constraints = {
-		SatisfactionRating (nullable: true)
-		WaitTime (nullable: true)
+		rating (nullable: true)
+		waitTime (nullable: true)
     }
 }

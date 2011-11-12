@@ -1,6 +1,6 @@
 package com.devis
 
-class VetaranPopulation {
+class VeteranPopulation {
 	
 	static belongsTo = [state: State]
 
