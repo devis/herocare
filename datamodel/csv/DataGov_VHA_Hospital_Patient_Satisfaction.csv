@@ -71,7 +71,7 @@ VISN,VISN Name,Facility Name,City,State,White (inpatient),African American (inpa
 11,Veterans In Partnership,VAMC,Battle Creek,MI,75,*,*,80,66,75
 11,Veterans In Partnership,John D. Dingell VA Medical Center,Detroit,MI,72,74,54,73,63,75
 11,Veterans In Partnership,Aleda E. Lutz VA Medical Center,Saginaw,MI,85,*,*,79,*,78
-12,The Great Lakes Health Care System,VA Chicago HCS; (Jessie Brown),"Chicago, West Side ",IL,77,70,80,81,69,53
+12,The Great Lakes Health Care System,VA Chicago HCS; (Jessie Brown),Chicago,IL,77,70,80,81,69,53
 12,The Great Lakes Health Care System,Edward Hines Jr. VA Hospital,Hines,IL,80,67,67,78,65,80
 12,The Great Lakes Health Care System,VAMC,North Chicago,IL,78,52,*,83,45,96
 12,The Great Lakes Health Care System,VAMC,Iron Mountain,MI,82,*,*,83,*,85
@@ -120,7 +120,7 @@ VISN,VISN Name,Facility Name,City,State,White (inpatient),African American (inpa
 20,Northwest Network,VAMC,Spokane ,WA,89,*,*,84,*,50
 20,Northwest Network,Jonathan M. Wainwright Memorial VA Medical Center,Walla Walla,WA,*,*,*,78,*,80
 21,Sierra Pacific Network,VA Central California HCS,Fresno,CA,81,*,94,79,67,75
-21,Sierra Pacific Network,VA Northern California HCS Martinez Sacramento,"Martinez, East Bay",CA,80,*,92,84,78,72
+21,Sierra Pacific Network,VA Northern California HCS Martinez Sacramento,Martinez,CA,80,*,92,84,78,72
 21,Sierra Pacific Network,"VA Palo Alto HCS PaloAlto MenloPk Livermore",Palo Alto,CA,84,73,83,87,75,84
 21,Sierra Pacific Network,VAMC,San Francisco,CA,82,79,79,85,79,72
 21,Sierra Pacific Network,VA Pacific Islands HCSSpark M. Matsunaga VA Medical & Regional Office Center,Honolulu,HI,*,*,*,89,*,75
