@@ -6,11 +6,17 @@
 
 ## Importing data
 `<environment>` is one of `dev, test, prod`
+
 ```bash
  grails <environment> shell
+
  load scripts/ImportGeoData.groovy
+
  clear
+
  load scripts/ImportHospitalData.groovy
+
  clear
+
  load scripts/ImportVetPopulation.groovy
 ```
