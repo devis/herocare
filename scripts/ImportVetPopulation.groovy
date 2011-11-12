@@ -20,8 +20,8 @@ def importVetPopulation = {ctx ->
 		
 		def existingState = State.findByName(stateName)
 		if (existingState && !existingState.population) {
-			println "Adding new population"
-			def population = new VeteranPopulation(total: total, male: male, female: female, state: existingState)
+			println "Adding new population for state: ${existingState.name}"
+			def population = new VeteranPopulation(state: existingState, total: total, male: male, female: female)
 			if (!population.save(failOnError: true, flush: true)) {
 				println "   Could not save new population : " + population.errors
 			}

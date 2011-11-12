@@ -55,7 +55,7 @@ def importHospitalData = {ctx ->
 			if (existingFacility && !existingFacility.rating) {
 				println "Adding new rating"
 				def rating = new SatisfactionRating(whiteOutpatient: whiteOut, whiteInpatient: whiteIn,
-					africanAmericanOutpatient: africanOut, africanAmericanInpatient, africanIn,
+					africanAmericanOutpatient: africanOut, africanAmericanInpatient: africanIn,
 					otherOutpatient: otherOut, otherInpatient: otherIn, facility: existingFacility)
 				if (!rating.save(failOnError: true, flush: true)) {
 					println "   Could not save new rating : " + rating.errors

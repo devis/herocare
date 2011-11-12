@@ -17,7 +17,7 @@ def importGeoData = { ctx ->
 		def stateName = fields[0].trim()
 		def stateAbbr = fields[1].trim()
 
-		def existingState = State.findByName(stateName)
+		def existingState = State.findByAbbreviation(stateAbbr)
 		if (!existingState) {
 			println "Adding new state: ${stateName}"
 			def newState = new State(name: stateName, abbreviation: stateAbbr)
