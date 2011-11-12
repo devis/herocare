@@ -9,8 +9,7 @@ class BootStrap {
     def init = { servletContext ->
 
         if (GrailsUtil.environment == GrailsApplication.ENV_DEVELOPMENT) {
-			String[] databaseManagerOptions = ['--url', 'jdbc:hsqldb:file:databases/devDB'];
-	        org.hsqldb.util.DatabaseManagerSwing.main(databaseManagerOptions)
+
         }
 
         if (GrailsUtil.environment == GrailsApplication.ENV_TEST) {  
